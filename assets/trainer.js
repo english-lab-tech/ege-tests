@@ -5,6 +5,10 @@
 'use strict';
 const V = window.VARIANT;
 const KEY = 'ege-trainer:' + V.id;
+try { // перенос ответов, сохранённых под старым id с длинным тире
+  const old = 'ege-trainer:' + V.id.replace('-', '–');
+  if (old !== KEY && !localStorage.getItem(KEY) && localStorage.getItem(old)) { localStorage.setItem(KEY, localStorage.getItem(old)); localStorage.removeItem(old); }
+} catch (e) {}
 const W_MIN = 190;                 // письменная часть ЕГЭ: 3 ч 10 мин
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
