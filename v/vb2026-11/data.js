@@ -202,7 +202,7 @@ window.VARIANT = {
      "texts": [
       "The rose is the most deeply ingrained flower in human history and human culture. It has been immortalised and integrated into music, festivals, poetry and even wars. It has been used as a sign of: passion as well as grief. It is also the sign of human love, given on different occasions. William Shakespeare surely immortalised the rose for the world in 1597, in his play “Romeo and Juliet”, when Juliet so passionately said, “What’s in a name? That which we call a rose. By any other name would smell as sweet.”",
       "All species of roses are naturally found throughout the Northern Hemisphere. Some 150 wild species are spread worldwide, from Alaska to Mexico, from Northern Africa to China. All roses are close relatives of cherries, apples, pears, raspberries, and plums. Most species of roses have long been cultivated for their hips, the fruit of the rose flower that has nutritional and medicinal value. A unique characteristic of all species of roses is its ability to bloom over and over again, from early summer to late autumn.",
-      "The Romans at first believed that the rose was useful as a source of natural medicines. Soon, the beautiful flowers became necessities at Roman festivals. Roman emperors demanded that their baths be filled with rose water, and they reclined on carpets of rose petals during their feasts. Perfumes made from roses became a highpriority treasure for the ruling elite, and it resulted in hardships among the peasant class, who were forced to grow roses instead of cultivating much needed food.",
+      "The Romans at first believed that the rose was useful as a source of natural medicines. Soon, the beautiful flowers became necessities at Roman festivals. Roman emperors demanded that their baths be filled with rose water, and they reclined on carpets of rose petals during their feasts. Perfumes made from roses became a high-priority treasure for the ruling elite, and it resulted in hardships among the peasant class, who were forced to grow roses instead of cultivating much needed food.",
       "During the 15 century in England, the rose became the symbol of war between two families, both of whom had laid claim to the English crown. The War of the Roses lasted for 30 years and involved the House of York, whose symbol was the white rose, and the House of Lancaster, whose symbol was the red rose. Only in 1486, King Henry VII of the House of Lancaster, who was the first Tudor king, married Elizabeth of York, uniting the families and finally bringing the English civil war to an end.",
       "In the 17 century, the rose became so valuable across Europe that it — along with rose water — was often used as currency. Roses were used to barter in market places across Europe, and commoners could pay their taxes to kings using roses and rose water. Josephine, wife of the Emperor Napoleon Bonaparte, created a great rose garden on the edge of Paris that contained over 200 varieties of the cherished rose. Most of the roses of Europe at that time were shades of pink or white until the early 19 century,",
       "Roses have always been extremely popular all over the world, and fossil records show the presence of ancient roses in the Tertiary Period, which began about 70 million years ago, Where, exactly, first roses appeared is still unknown, It is often believed that roses were probably first cultivated in the royal gardens of ancient China about 5,000 years ago. In Ur, an ancient city of Mesopotamia, 3,000-year-old clay tablets contain the first known written reference about roses growing in gardens of the city.",
@@ -263,7 +263,7 @@ window.VARIANT = {
       "And when you’re ready to swap out your old machines, don’t just put them on the curb. Recycling an old refrigerator through a special appliance disposal program can prevent an additional 10,000 pounds of carbon pollution because the global-warming pollutants in the refrigerants and foam would be properly captured, rather than vented to the air.",
       "Reduce water waste. Saving water reduces carbon pollution, too. That’s because it takes a lot of energy to pump, heat, and treat your water. So take shorter showers, turn off the tap while brushing your teeth, and switch to water-efficient appliances. It is estimated that if just one out of every 100 homes were equipped with water-efficient fixtures, about 100 million kilowatt-hours of electricity per year would be saved.",
       "As for other spheres, eat the food you buy — and compost what you can’t. Approximately 10 percent of energy use goes into growing, processing, packaging, and shipping food — about 40 percent of which winds up in a landfill, If you’re wasting less food, you’re likely cutting down on energy consumption, As for the scraps you can’t eat or the leftovers you don’t get to, collect them in a compost bin instead of sending them to a landfill where they release methane, Recycling food and other organic waste into compost provides a range of environmental benefits, including improving soil health, decreasing greenhouse gas emissions, recycling nutrients, and mitigating the impact of droughts.",
-      "We need to make urgent changes to address the climate orisis — from adapting to the damage we can no longer avoid to preventing the worst-of-the-worst from happening. And while the urgency surrounding climate action should inspire us all into action — so should the progress we’re already making. 124 Er. TUNOBbIE ___ YACT, ___ es"
+      "We need to make urgent changes to address the climate crisis — from adapting to the damage we can no longer avoid to preventing the worst-of-the-worst from happening. And while the urgency surrounding climate action should inspire us all into action — so should the progress we’re already making. 124 Er. TUNOBbIE ___ YACT, ___ es"
      ]
     },
     {
@@ -580,7 +580,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "why Zetland teenagers have part-time job",
+       "topic": "why Zetland teenagers have part-time jobs",
        "lead": "Imagine that you are doing a project on <b>why Zetland teenagers have part-time jobs</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the table below).",
        "question": "Why do you have a part-time job?",
        "chart": {
@@ -617,7 +617,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "the new hobbies Zetlanders would mostly",
+       "topic": "the new hobbies Zetlanders would mostly like to try",
        "lead": "Imagine that you are doing a project on <b>the new hobbies Zetlanders would mostly like to try</b>. You have found some data on the subject — the results of a survey conducted among Zetlanders (see the pie chart below).",
        "question": "What new hobby would you like to try?",
        "chart": {

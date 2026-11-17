@@ -574,7 +574,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "why young Zetlanders choose to eat healt",
+       "topic": "why young Zetlanders choose to eat healthily",
        "lead": "Imagine that you are doing a project on <b>why young Zetlanders choose to eat healthily</b>. You have found some data on the subject — the results of a survey conducted among young Zetlanders (see the table below).",
        "question": "Why have you decided to eat healthily?",
        "chart": {
@@ -611,7 +611,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "how teenagers in Zetland use artificial",
+       "topic": "how teenagers in Zetland use artificial intelligence (AI)",
        "lead": "Imagine that you are doing a project on <b>how teenagers in Zetland use artificial intelligence (AI)</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the pie chart below).",
        "question": "What do you use AI most often for?",
        "chart": {

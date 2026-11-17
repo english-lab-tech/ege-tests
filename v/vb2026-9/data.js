@@ -581,7 +581,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "technological advancements Zetland teena",
+       "topic": "technological advancements Zetland teenagers are most excited about",
        "lead": "Imagine that you are doing a project on <b>technological advancements Zetland teenagers are most excited about</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the table below).",
        "question": "What technological advancement are you most excited about?",
        "chart": {
@@ -613,12 +613,12 @@ window.VARIANT = {
          "Number of respondents (%)"
         ]
        },
-       "problem": "outline a problem that can arise with technological advancement and suggest a way of solving it; by giving and explaining your opinion on the importance of science in our ves. Imagine that you are doing a project on local aspects that Zetland teenagers are most proud of. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the pie chart below). Comment on the survey data and give your opinion on the subject of the project. The survey question: What aspect of your country are you most proud of? Choose one option [] Cultural diversity ee Natural beauty 3a Sense of community Z Historical attractions BJ artistic heritage \\% Write 200—250 words. Use the following plan: — make an opening statement on the subject of the project; — select and report 2–3 facts; — make 1–2 comparisons where relevant and give your comments; — outline a problem that can arise with visiting places of natural beauty and suggest a way of solving it;",
-       "conclude": "conclude by giving and explaining your opinion on the importance of learning about the culture of your country."
+       "problem": "outline a problem that can arise with technological advancement and suggest a way of solving it;",
+       "conclude": "conclude by giving and explaining your opinion on the importance of science in our lives."
       },
       {
        "n": "38.2",
-       "topic": "local aspects that Zetland teenagers are",
+       "topic": "local aspects that Zetland teenagers are most proud of",
        "lead": "Imagine that you are doing a project on <b>local aspects that Zetland teenagers are most proud of</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the pie chart below).",
        "question": "What aspect of your country are you most proud of?",
        "chart": {
@@ -657,7 +657,7 @@ window.VARIANT = {
  "oral": {
   "t1": {
    "lead": "Imagine that you are preparing a project with your friend. You have found some interesting material for the presentation and you want to read this text to your friend. You have 1.5 minutes to read the text silently, then be ready to read it out aloud. You will not have more than 1.5 minutes to read it.",
-   "text": "The fashion industry is considered to be one of the fastest-growing industries today, yet it has faced some significant challenges throughout its history. It’s not a secret that fashion industry takes its negative toll on the environment. Clothes production cannot cope with limited water consumption, and its carbon footprint increases daily. People buy tons of cheap garments which end up in landfills in less than a month. The situation might get worse if consumers don’t change their habits in the coming years. There are some healthy fashion trends that may help to make fashion sustainable. Consumers are choosing brands that do not hurt animals and the planet in the process. The younger generation chooses second-hand shopping giving clothes another life. And brands promote recycling to save on raw materials and natural resources."
+   "text": "The fashion industry is considered to be one of the fastest-growing industries today, yet it has faced some significant challenges throughout its history. It’s not a secret that fashion industry takes its negative toll on the environment. Clothes production cannot cope with limited water consumption, and its carbon footprint increases daily. People buy tons of cheap garments which end up in landfills in less than a month. The situation might get worse if consumers don’t change their habits in the coming years. There are some healthy fashion trends that may help to make fashion sustainable. Consumers are choosing brands that do not hurt animals and the planet in the process. The younger generation chooses second-hand shopping giving clothes another life. And brands promote recycling to save on raw material and natural resources."
   },
   "t2": {
    "title": "Find what you need at our gift shop!",

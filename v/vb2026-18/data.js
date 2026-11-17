@@ -583,7 +583,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "why Zetland teenagers would like to go o",
+       "topic": "why Zetland teenagers would like to go on a space trip",
        "lead": "Imagine that you are doing a project on <b>why Zetland teenagers would like to go on a space trip</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the table below).",
        "question": "Why would you like to go on a space trip?",
        "chart": {

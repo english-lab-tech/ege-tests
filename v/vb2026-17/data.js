@@ -264,7 +264,7 @@ window.VARIANT = {
       "Plastic can be found in our solid and liquid waste. It can damage human cells and be found in placentas, the essential organ that babies live off until birth. It can be deduced from this that there is a potential for cancer risks and for us to be born with these invasive plastics in us. Truly chilling.",
       "We have an opportunity to ban these bags. The risk of future generations having embedded plastics in their diet and bodies should veto any argument for convenience.",
       "It isn’t just the potential for invasive plastics to ruin our health that’s terrifying, but the fact that our hubris as a factory-fueled civilization has led to this point; that for those who take part in its norms, come with the risk of having an infamously irremovable man-made unnatural material within them.",
-      "Plastic is just as bad as lead, a material also commonly ‘ised for its time but if not, even worse. It was a material widely used in paint, car gas, and toys. With research, though, scientists figured out the psychological and physical tolls of lead, and now we use it far less openly. At least paint companies no longer advertise how great lead paint is to the youth.",
+      "Plastic is just as bad as lead, a material also commonly used for its time but if not, even worse. It was a material widely used in paint, car gas, and toys. With research, though, scientists figured out the psychological and physical tolls of lead, and now we use it far less openly. At least paint companies no longer advertise how great lead paint is to the youth.",
       "As animals and agricultural goods get exposed to these plastics — even trace amounts of it — they permanently become a part of the ecosystem, ecosystems we feed ourselves from today. It can get in our salt, our water from leaching plastic bottles we drink, or from pollution which even filters cannot get rid of completely, and even at that, it is unfortunate a solution is in a paywall.",
       "It is important we take measures into our own hands and support the banning of plastic bags within a mass-market scale, urging our lawmakers that short-term inconveniences are no excuse for long-term detriments the likes of which we haven’t even researched enough to know, with one thing being certain, our manufactured material will prove malicious. ___ 189"
      ]
@@ -585,7 +585,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "the most popular Valentine’s Day present",
+       "topic": "the most popular Valentine’s Day presents in Zetland",
        "lead": "Imagine that you are doing a project on <b>the most popular Valentine’s Day presents in Zetland</b>. You have found some data on the subject — the results of a survey conducted among Zetlanders (see the table below).",
        "question": "What Valentine’s Day present do you receive most often?",
        "chart": {
@@ -622,7 +622,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "the ways of communication preferred by Z",
+       "topic": "the ways of communication preferred by Zetland teenagers",
        "lead": "Imagine that you are doing a project on <b>the ways of communication preferred by Zetland teenagers</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the pie chart below).",
        "question": "What way of communication do you prefer?",
        "chart": {

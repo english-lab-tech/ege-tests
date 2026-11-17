@@ -620,7 +620,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "what household chores young Zetlanders m",
+       "topic": "what household chores young Zetlanders mostly do at home",
        "lead": "Imagine that you are doing a project on <b>what household chores young Zetlanders mostly do at home</b>. You have found some data on the subject — the results of a survey conducted among young Zetlanders (see the pie chart below).",
        "question": "What household chore do you do most often?",
        "chart": {

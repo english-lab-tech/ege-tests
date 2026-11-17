@@ -206,7 +206,7 @@ window.VARIANT = {
       "Being a true leader can be tough. There’s a balance between creating a successful strategy and supporting and making sure that others follow it. The politics and pressures associated with being in a leadership position can be wearing on a good day, and unbearable on a bad day. If you want to be an effective leader you should focus on the big picture and delegate smaller tasks to your team. Coping with difficult tasks helps a team to build confidence and enjoy working for you.",
       "Courage is a changing thing, but incredibly important in a great leader. A leader needs to be able to stand alone and stand up for what they believe in. Having the courage to do what you believe will work is sometimes one of the hardest things to do. However, courage is not the only thing that matters. With courage also comes determination and patience. Together they make it possible for leaders to keep going along a difficult road and keep their head held high, no matter what the outcome is.",
       "A good leader will often easily command the attention of an entire room, sometimes without even speaking. This level of presence is not something innate, something you just possess from birth. It’s a quality that needs to be earned through the respect of your employees, working hard and being honest at every step of the journey, Acting distant or superior to employees is likely to cause dislike. Instead, a good leader can listen to their employees, talk on their level and gain their trust.",
-      "Leaders need to be able to influence other people through authentic and transparent communication. Apart from that leaders should continuously encourage others to live by the main company values and agree with business goals. And when it comes to real leaders, they exemplify the behaviours and characteristics that they encourage in their followers. They walk the walk and talk the talk. As a result, group members admire these leaders and work to emulate these behaviours. omr: ___ B ___ F"
+      "Leaders need to be able to influence other people through authentic and transparent communication. Apart from that leaders should continuously encourage others to live by the main company values and agree with business goals. And when it comes to real leaders, they exemplify the behaviours and characteristics that they encourage in their followers. They walk the walk and talk the talk. As a result, group members admire these leaders and work to emulate these behaviours."
      ],
      "rowLabel": "Текст",
      "rows": [
@@ -292,7 +292,7 @@ window.VARIANT = {
     {
      "type": "mc",
      "id": 14,
-     "q": "The author uses the quote “shoot for the stars, so if you fall, you land on the clouds” in paragraph 38 to…",
+     "q": "The author uses the quote “shoot for the stars, so if you fall, you land on the clouds” in paragraph 8 to…",
      "opts": [
       "oppose setting unrealistic big goals.",
       "show that planning is the key to success.",
@@ -619,7 +619,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "what skills Zetland teenagers prefer to",
+       "topic": "what skills Zetland teenagers prefer to learn",
        "lead": "Imagine that you are doing a project on <b>what skills Zetland teenagers prefer to learn</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the pie chart below).",
        "question": "What skill would you like to learn?",
        "chart": {

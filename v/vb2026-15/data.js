@@ -399,7 +399,7 @@ window.VARIANT = {
      "type": "word",
      "id": 22,
      "word": "FOLLOW",
-     "s": "Hadrian’s Wall was the north-west frontier of the Roman empire for nearly 800 years. It was built by the Roman army on the orders of the emperor Hadrian ___ his visit to Britain in AD 122.",
+     "s": "Hadrian’s Wall was the north-west frontier of the Roman empire for nearly 300 years. It was built by the Roman army on the orders of the emperor Hadrian ___ his visit to Britain in AD 122.",
      "key": [
       "following"
      ]
@@ -582,7 +582,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "the most popular types of volunteer orga",
+       "topic": "the most popular types of volunteer organisations among young Zetlanders",
        "lead": "Imagine that you are doing a project on <b>the most popular types of volunteer organisations among young Zetlanders</b>. You have found some data on the subject — the results of a survey conducted among young Zetlanders (see the table below).",
        "question": "What volunteer organisation do you belong to?",
        "chart": {
@@ -619,7 +619,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "the most important subjects for a future",
+       "topic": "the most important subjects for a future career among Zetland teenagers",
        "lead": "Imagine that you are doing a project on <b>the most important subjects for a future career among Zetland teenagers</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the pie chart below).",
        "question": "What subject do you consider to be the most important for a future career?",
        "chart": {

@@ -578,7 +578,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "what young Zetlanders know about marine",
+       "topic": "what young Zetlanders know about marine life",
        "lead": "Imagine that you are doing a project on <b>what young Zetlanders know about marine life</b>. You have found some data on the subject — the results of a survey conducted among young Zetlanders (see the table below).",
        "question": "What sea creature is the smartest?",
        "chart": {

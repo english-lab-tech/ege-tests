@@ -400,7 +400,7 @@ window.VARIANT = {
      "type": "word",
      "id": 22,
      "word": "EARLY",
-     "s": "The ___ structures known in the immediate area are: four or five pits, three of which appear to have held large pine’totempole like’ posts erected in the Mesolithic period.",
+     "s": "The ___ structures known in the immediate area are: four or five pits, three of which appear to have held large pine ‘totem-pole like’ posts erected in the Mesolithic period.",
      "key": [
       "earliest"
      ]
@@ -621,7 +621,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "the museums that are most popular among",
+       "topic": "the museums that are most popular among Zetland teenagers",
        "lead": "Imagine that you are doing a project on <b>the museums that are most popular among Zetland teenagers</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the pie chart below).",
        "question": "What themed museum do you like best of all?",
        "chart": {

@@ -283,7 +283,7 @@ window.VARIANT = {
     {
      "type": "mc",
      "id": 13,
-     "q": "The word sophistication in “..in a time of technical sophistication” (paragraph 2) is — — @losest in meaning to…",
+     "q": "The word sophistication in “..in a time of technical sophistication” (paragraph 2) is closest in meaning to…",
      "opts": [
       "complexity.",
       "control.",
@@ -618,7 +618,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "the most popular extracurricular activit",
+       "topic": "the most popular extracurricular activities among Zetland teenagers",
        "lead": "Imagine that you are doing a project on <b>the most popular extracurricular activities among Zetland teenagers</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the pie chart below).",
        "question": "What extracurricular activity do you enjoy most of all?",
        "chart": {

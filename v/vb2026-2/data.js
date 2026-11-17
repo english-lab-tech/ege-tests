@@ -582,7 +582,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "why young Zetlanders choose to enter spo",
+       "topic": "why young Zetlanders choose to enter sports competitions",
        "lead": "Imagine that you are doing a project on <b>why young Zetlanders choose to enter sports competitions</b>. You have found some data on the subject — the results of a survey conducted among young Zetlanders (see the table below).",
        "question": "What is the main reason to enter a sports competition for you?",
        "chart": {
@@ -619,7 +619,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "what makes Zetlanders buy souvenirs on t",
+       "topic": "what makes Zetlanders buy souvenirs on their trips",
        "lead": "Imagine that you are doing a project on <b>what makes Zetlanders buy souvenirs on their trips</b>. You have found some data on the subject — the results of a survey conducted among Zetlanders (see the pie chart below).",
        "question": "What makes you buy a souvenir most often?",
        "chart": {
@@ -663,7 +663,7 @@ window.VARIANT = {
   "t2": {
    "title": "Zoo adventure starts here!",
    "img": "img/ad.jpg",
-   "lead": "You are considering going to a zoo with your relatives and now you’d like to get more information. In 1.5 minutes you are to ask four direct quéstions to find out about the following:",
+   "lead": "You are considering going to a zoo with your relatives and now you’d like to get more information. In 1.5 minutes you are to ask four direct questions to find out about the following:",
    "points": [
     "working hours;",
     "feeding times;",

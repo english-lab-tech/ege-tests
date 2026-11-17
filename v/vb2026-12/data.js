@@ -327,7 +327,7 @@ window.VARIANT = {
     {
      "type": "mc",
      "id": 17,
-     "q": "What is the author’s attitude to clubs that promote themselves as’good job experience for the real world’?",
+     "q": "What is the author’s attitude to clubs that promote themselves as good job experience for the real world’?",
      "opts": [
       "They provide good resources for success.",
       "They are great for making connections.",
@@ -618,7 +618,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "how young Zetlanders would prefer to cel",
+       "topic": "how young Zetlanders would prefer to celebrate coming of age",
        "lead": "Imagine that you are doing a project on <b>how young Zetlanders would prefer to celebrate coming of age</b>. You have found some data on the subject — the results of a survey conducted among young Zetlanders (see the pie chart below).",
        "question": "How would you prefer to celebrate your coming of age?",
        "chart": {

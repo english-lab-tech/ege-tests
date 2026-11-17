@@ -584,7 +584,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "young Zetlanders’ choice of a future car",
+       "topic": "young Zetlanders’ choice of a future career",
        "lead": "Imagine that you are doing a project on <b>young Zetlanders’ choice of a future career</b>. You have found some data on the subject — the results of a survey conducted among young Zetlanders (see the table below).",
        "question": "What factors have influenced your choice of a future career?",
        "chart": {
@@ -621,7 +621,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "Zetlanders’ opinion on the most influent",
+       "topic": "Zetlanders’ opinion on the most influential Russian inventions",
        "lead": "Imagine that you are doing a project on <b>Zetlanders’ opinion on the most influential Russian inventions</b>. You have found some data on the subject — the results of a survey conducted among Zetlanders (see the pie chart below).",
        "question": "What do you consider to be the most influential invention by Russian inventors?",
        "chart": {

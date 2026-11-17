@@ -256,7 +256,7 @@ window.VARIANT = {
      "title": "",
      "instr": "Прочитайте текст и выполните задания 12–18. В каждом задании выберите ответ 1, 2, 3 или 4.",
      "paras": [
-      "___ Online learning I graduated with academic honours without ever meeting my professors, embarking on an all-nighter with classmates and, technically, never having gone to a class at all. I was an onlineonly student, and as online degree programmes grow in popularity, my past three years of study were a crash-course in the unique challenges of learning online, as well as a glimpse into what the future of higher education might look like.",
+      "___ Online learning I graduated with academic honours without ever meeting my professors, embarking on an all-nighter with classmates and, technically, never having gone to a class at all. I was an online-only student, and as online degree programmes grow in popularity, my past three years of study were a crash-course in the unique challenges of learning online, as well as a glimpse into what the future of higher education might look like.",
       "My school day looked very different than most: rather than loading up my backpack and heading to class, I would wake up, eat breakfast while doing my first round of schoolwork for the day, and spend a few hours finishing assignments. Then, I’d head off to work, maybe tucking in a study session during lunch before wrapping up homework or preparing for exams in the evening. Saturday and Sunday became two of my busiest school days and I became an expert at working everywhere from my desk to the car.",
       "Some of my most vivid undergraduate memories were of completing a term paper on the floor backstage at the ballet performance I was managing, and stumbling home after a full day of work to begin school that evening. Just like traditional universities, I had papers, exams, and grades — only, there were no office hours and no such thing as sick days.",
       "Enrolment in online learning programmes has grown over the past few years, with more than a quarter of students enrolled in at least one online course. But too many misconceptions still persist around the experience of being an online-only student — for example, that an online degree doesn’t carry the same level of prestige as a traditional one. By contrast, online learning enabled me to hone skills such as self-motivation and time management that ultimately made me a better student, and later, a more prepared young adult.",
@@ -582,7 +582,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "how Zetland teenagers prefer to spend th",
+       "topic": "how Zetland teenagers prefer to spend their free time",
        "lead": "Imagine that you are doing a project on <b>how Zetland teenagers prefer to spend their free time</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the table below).",
        "question": "What do you prefer to do in your free time?",
        "chart": {
@@ -619,7 +619,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "what Zetland teenagers use social networ",
+       "topic": "what Zetland teenagers use social networks for",
        "lead": "Imagine that you are doing a project on <b>what Zetland teenagers use social networks for</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the pie chart below).",
        "question": "What do you use social networks for?",
        "chart": {
@@ -689,7 +689,7 @@ window.VARIANT = {
    ]
   },
   "t4": {
-   "lead": "Imagine that you and your friend are doing a school project “Food choices”, You have found some photos to illustrate it but for technical reasons you cannot send them now. Leave a voice message to your friend explaining your choice of the photos and sharing some ideas about the project. In 2.56 minutes be ready to:",
+   "lead": "Imagine that you and your friend are doing a school project “Food choices”, You have found some photos to illustrate it but for technical reasons you cannot send them now. Leave a voice message to your friend explaining your choice of the photos and sharing some ideas about the project. In 2.5 minutes be ready to:",
    "plan": [
     "explain the choice of the illustrations for the project by briefly describing them and noting the differences;",
     "mention the advantages (1–2) of the two types of food;",

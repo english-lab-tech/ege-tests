@@ -578,7 +578,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "how teenagers in Zetland celebrate New Y",
+       "topic": "how teenagers in Zetland celebrate New Year",
        "lead": "Imagine that you are doing a project on <b>how teenagers in Zetland celebrate New Year</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the table below).",
        "question": "What is the best way to celebrate New Year for you?",
        "chart": {
@@ -615,7 +615,7 @@ window.VARIANT = {
       },
       {
        "n": "38.2",
-       "topic": "how young Zetlanders cope with exam stre",
+       "topic": "how young Zetlanders cope with exam stress",
        "lead": "Imagine that you are doing a project on <b>how young Zetlanders cope with exam stress</b>. You have found some data on the subject — the results of a survey conducted among young Zetlanders (see the pie chart below).",
        "question": "What is the best way to cope with exam stress for you?",
        "chart": {

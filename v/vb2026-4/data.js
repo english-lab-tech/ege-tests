@@ -583,7 +583,7 @@ window.VARIANT = {
      "choices": [
       {
        "n": "38.1",
-       "topic": "how teenagers in Zetland spend their spr",
+       "topic": "how teenagers in Zetland spend their spring break",
        "lead": "Imagine that you are doing a project on <b>how teenagers in Zetland spend their spring break</b>. You have found some data on the subject — the results of a survey conducted among Zetland teenagers (see the table below).",
        "question": "What do you prefer to do during a spring break?",
        "chart": {
