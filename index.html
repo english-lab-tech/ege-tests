@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Тренажёр ЕГЭ по английскому</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Одна колонка: шапка, проверка микрофона, список вариантов по сборникам, как заниматься */
+:root {
+  --ground: #e9edf2; --sheet: #ffffff; --ink: #18202b; --muted: #5a6676; --line: #d4dbe3;
+  --accent: #24489c; --accent-soft: #e4ebf8; --ok: #2b7a4e;
+  --ui: "Golos Text", "Segoe UI", system-ui, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, Consolas, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --ground: #11161c; --sheet: #1a2129; --ink: #e5ebf1; --muted: #9aa7b5; --line: #2d3843;
+    --accent: #8fb0f0; --accent-soft: #24304a; --ok: #6cc391; color-scheme: dark; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--ground); color: var(--ink); font: 16px/1.55 var(--ui); }
+main { max-width: 720px; margin: 0 auto; padding-block: 40px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 20px; }
+h1, h2 { margin: 0; line-height: 1.25; text-wrap: balance; }
+h1 { font-size: clamp(1.6rem, 4vw, 2.1rem); }
+h2 { font-size: 1.15rem; }
+p { margin: 0; }
+.muted { color: var(--muted); }
+.kicker { font-size: .78rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.sheet { background: var(--sheet); border: 1px solid var(--line); border-radius: 12px; padding: clamp(18px, 4vw, 28px); display: grid; gap: 14px; }
+.mic { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; background: var(--accent-soft); border-color: transparent; }
+.mic div { display: grid; gap: 4px; min-width: 0; flex: 1 1 280px; }
+.btn { display: inline-block; text-decoration: none; border: 1px solid var(--accent); background: var(--accent); color: var(--sheet); border-radius: 10px; padding: 10px 18px; font-weight: 500; }
+.btn:focus-visible, .variant:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.list { display: grid; }
+.variant { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 16px; align-items: center; padding: 14px 4px; border-top: 1px solid var(--line); color: inherit; text-decoration: none; }
+.variant:hover .name { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.name { font-weight: 600; }
+.meta { grid-column: 1; font-size: .9rem; color: var(--muted); }
+.go { grid-row: 1 / span 2; grid-column: 2; font: 500 .85rem var(--mono); color: var(--accent); text-align: right; }
+.go b { display: block; color: var(--ok); font-weight: 500; }
+ol { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; }
+</style>
+</head>
+<body>
+<main>
+  <header style="display:grid;gap:8px">
+    <p class="kicker">Английский язык · подготовка к ЕГЭ</p>
+    <h1>Тренажёр ЕГЭ по английскому</h1>
+    <p class="muted">Полные варианты в формате экзамена: аудирование с записью, чтение, грамматика, письмо и устная часть. Задания с кратким ответом проверяются сразу, письмо и устную часть оцениваете сами по критериям.</p>
+  </header>
+
+  <section class="sheet mic">
+    <div>
+      <h2>Перед устной частью проверьте микрофон</h2>
+      <p class="muted">Откройте проверку на том же компьютере и в том же браузере, где будете заниматься.</p>
+    </div>
+    <a class="btn" href="mic-test.html">Проверить микрофон</a>
+  </section>
+
+  <section class="sheet">
+    <h2>ЕГЭ 2027 · типовые экзаменационные варианты</h2>
+    <div class="list">
+      <a class="variant" href="v/ege2027-1/" data-id="ege2027-1">
+        <span class="name">Тест 1</span>
+        <span class="meta">письменная часть 3 ч 10 мин · устная часть около 17 минут</span>
+        <span class="go">Открыть →</span>
+      </a>
+    </div>
+  </section>
+
+  <section class="sheet">
+    <h2>Как заниматься</h2>
+    <ol>
+      <li>Откройте вариант в Google Chrome или Яндекс Браузере на компьютере и наденьте наушники.</li>
+      <li>Выполните письменную часть и нажмите «Завершить и проверить». Вы увидите баллы, ошибки и правильные ответы.</li>
+      <li>Перечитайте своё письмо и эссе и оцените их по критериям прямо на странице результатов.</li>
+      <li>Пройдите устную часть, прослушайте свои ответы и оцените их. Ответы письменной части сохраняются в браузере, к ним можно вернуться.</li>
+    </ol>
+  </section>
+</main>
+<script>
+// отметка «пройдено» у вариантов, которые уже проверены в этом браузере
+document.querySelectorAll('[data-id]').forEach(a => {
+  try {
+    const s = JSON.parse(localStorage.getItem('ege-trainer:' + a.dataset.id));
+    if (s && s.checked) a.querySelector('.go').insertAdjacentHTML('afterbegin', '<b>проверено</b>');
+  } catch (e) {}
+});
+</script>
+</body>
+</html>
