@@ -1,7 +1,7 @@
 /* Тренажёр ЕГЭ: лист буклета на синеватой подложке, поля ответов в духе бланка №1. Стиль общий с сайтом пробников ОГЭ. */
 :root {
-  --ground: #e9edf2; --sheet: #ffffff; --ink: #18202b; --muted: #5a6676; --line: #d4dbe3;
-  --cell: #f4f7fb; --accent: #24489c; --accent-soft: #e4ebf8; --ok: #2b7a4e; --ok-soft: #e3f3ea;
+  --ground: #e7f1e6; --sheet: #ffffff; --ink: #1d2a22; --muted: #5a6b60; --line: #cfdfd0;
+  --cell: #f2f8f1; --accent: #3f7a5e; --accent-soft: #dcebdd; --ok: #23793f; --ok-soft: #dff3e3;
   --bad: #b3392b; --bad-soft: #fbe9e6; --warn: #a8600a; --rec: #c23b2b;
   --ui: "Golos Text", "Segoe UI", system-ui, sans-serif;
   --read: "PT Serif", Georgia, "Times New Roman", serif;
@@ -9,8 +9,8 @@
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --ground: #11161c; --sheet: #1a2129; --ink: #e5ebf1; --muted: #9aa7b5; --line: #2d3843;
-    --cell: #212a34; --accent: #8fb0f0; --accent-soft: #24304a; --ok: #6cc391; --ok-soft: #1c3428;
+  :root { --ground: #111814; --sheet: #19221c; --ink: #e3ede5; --muted: #98aa9e; --line: #2b3a30;
+    --cell: #1f2a23; --accent: #a6d7b5; --accent-soft: #223629; --ok: #7fd19a; --ok-soft: #1b3524;
     --bad: #f08a78; --bad-soft: #3a2220; --warn: #e2a24c; --rec: #f07a66; color-scheme: dark; }
 }
 * { box-sizing: border-box; }

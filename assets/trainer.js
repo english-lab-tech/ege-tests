@@ -160,7 +160,7 @@ function pickRow(id, rows, n, head) {
 }
 const gapify = (t, cls = '') => t.replace(/\{(\w+)\}/g, (_, g) => `<span class="gap ${cls}">${g}</span>`);
 function pie(rows) {
-  const fills = ['#ffffff', '#cdd6e1', '#93a1b3', '#5d6c80', '#26303c'];
+  const fills = ['#ffffff', '#d6eadb', '#a5cdb0', '#6e9f7e', '#36604a'];
   let a = -Math.PI / 2; const R = 90, cx = 130, cy = 115; let paths = '', labels = '';
   rows.forEach(([name, v], i) => {
     const b = a + v / 100 * Math.PI * 2, large = b - a > Math.PI ? 1 : 0;
